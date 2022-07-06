@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Destri08
 - 👀 I’m interested in programing.
-- 🌱 I’m currently working Full Stack Java.
+- 🌱 I’m currently working Full Stack Java whit 2 years of experience.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach Discord #8242
 
