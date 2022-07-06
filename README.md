@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Destri08
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Full Stack Java.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me write me
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me write me.
 
 <!---
 Destri08/Destri08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
